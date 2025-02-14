@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**paulistekss/paulistekss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Linguagens que eu utilizo
 
-Here are some ideas to get you started:
+## C#
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Python
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" />
+
+## Power Automate
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerautomate/powerautomate-original.svg" alt="Power Automate" width="50" height="50" />
+
+## RPA
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rpa/rpa-original.svg" alt="RPA" width="50" height="50" />
