@@ -5,4 +5,5 @@
 # ___________________________________________________________________ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-roberto-costa-santos)
 
 ### • 🛠️ Tools
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerplatform/powerplatform-original.svg" alt="Power Platform" width="50" height="50" />
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerautomate/powerautomate-original.svg" alt="Power Automate" width="50" height="50" />
