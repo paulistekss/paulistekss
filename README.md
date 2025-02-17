@@ -2,7 +2,7 @@
 
 #### • I’m a Jr. HyperAutomation analyst at Marcopolo SA, where I work on automating administrative business processes. I use Low Code/No Code tools and RPA. I’m currently improving my skills in C# and Python.
 
-# • 🌐 Social Media
+### • 🌐 Social Media
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-roberto-costa-santos-3563292b1/)
 
 ### • 🛠️ Tools
